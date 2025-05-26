@@ -1,0 +1,45 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Test, coverage, and build artifacts
+*.log
+*.sqlite3
+*.db
+*.egg-info/
+dist/
+build/
+*.cover
+.coverage
+.pytest_cache/
+.tox/
+.nox/
+.hypothesis/
+htmlcov/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Static files (optional, if generated)
+static/
