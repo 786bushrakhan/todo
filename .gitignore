@@ -43,3 +43,6 @@ htmlcov/
 
 # Static files (optional, if generated)
 static/
+
+# Instance folder (for Flask or similar apps)
+instance/
